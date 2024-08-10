@@ -1,4 +1,4 @@
-body{
+*{
     padding: 0;
     margin: 0;
    
@@ -45,14 +45,13 @@ margin-top: 30px;
     color: white;
     font-size: 80px;
     line-height: 80px;
-    margin-top: -20px;
-    
+   
  }
 .textnn{
     color: white;
     font-size: 90px;
-    line-height: 30px;
-    margin-top: -20px;
+    line-height: 90px;
+   
 }
 /* banner */
 .bannerh1{
@@ -65,7 +64,8 @@ margin-top: 30px;
     color: red;
     font-size: 30px;
     font-weight: 300;
-    margin-top: -40px;
+    line-height: 30px;
+    
     
 }
 .banner3{
@@ -73,4 +73,49 @@ margin-top: 30px;
     line-height: 55px;
     margin-top: 1px;
     color: rgb(07,02,11);
+}
+
+/* bannerprat-2 */
+.banner-2{
+    background: url(./images/Vectorrr.png);
+    width: 1200px;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: start;
+    background-color: rgba(0, 0, 0, 0.637);
+    background-blend-mode: overlay;
+    flex-direction: column;
+}
+.bann-2{
+    color: white;
+    font-size: 70px;
+    margin-left:120px ;
+    line-height:80px ;
+    
+}
+.bannerh1{
+    color: white;
+    font-size: 70px;
+    margin-left: 120px;
+    line-height: 80px;
+    
+    
+}
+.banner-p{
+    font-size: 24px;
+    line-height: 35px;
+    margin-top: 50px;
+    color: white;
+    margin-left: 120px;
+}
+.btn{
+    color: white;
+    margin-left: 120px;
+    margin-top: 100px;
 }
