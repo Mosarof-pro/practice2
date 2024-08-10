@@ -74,11 +74,14 @@ margin-top: 30px;
     margin-top: 1px;
     color: rgb(07,02,11);
 }
+.bannerprat1{
+    margin-top: 60px;
+}
 
 /* bannerprat-2 */
 .banner-2{
     background: url(./images/Vectorrr.png);
-    width: 1200px;
+    width: 1500px;
     margin: auto;
     padding-top: 100px;
     padding-bottom: 100px;
